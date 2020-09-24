@@ -1,7 +1,7 @@
 ## Software Delivery Cycle
 The Software Development Life Cycle is a process that ensures good software is built. Each phase in the life cycle has its own process and deliverables that feed into the next phase. It involves all tasks involved in planning, creating, testing and deplaoying a Software Product. 
 
--Purpose:
+- Purpose:
 
 SDLC process leads to the development of the software in a systematic and disciplined manner.
 SDLC helps to deliver a high quality product according to the needs and demands of the customer.
@@ -48,8 +48,9 @@ Finally, when the desired product is delivered, the developers work on continous
 Test Driven Development(TDD) is a software development approach in which test cases are developed to specify and validate what the code will do. In this approach before writing the actual code, test cases are created for each function. 
 Test-Driven development is a process of developing and running automated test before actual development of the application. Hence, TDD sometimes also called as Test First Development.
 
---How to perform TDD Test
---Following steps define how to perform TDD test,
+- How to perform TDD Test
+
+- Following steps define how to perform TDD test,
 
 1. Add a test.
 2. Run all tests and see if any new test fails.
@@ -57,7 +58,8 @@ Test-Driven development is a process of developing and running automated test be
 4. Run tests and Refactor code.
 5. Repeat.
 
---Benefits of TDD:
+- Benefits of TDD:
+
 1. Much less debug time
 
 2. Code proven to meet requirements
