@@ -127,7 +127,7 @@ Peer-reviewed research has shown continuous delivery makes releases less painful
 
 ## Configuration Management
 
-Configuration Management is an automated method to maintan consistency in the software. Configuration management is important because it enables the ability to scale infrastructure and software systems without having to correspondingly scale administrative staff to manage those systems. 
+Configuration Management is an automated method to maintan consistency in the product's performance, functional and physical. Configuration management is important because it enables the ability to scale infrastructure and software systems without having to correspondingly scale administrative staff to manage those systems. 
 
 It is common for configuration management tools to include automation too. Popular tools are:
 
@@ -137,4 +137,18 @@ Puppet
 
 ## Containerization
 
+Containerization is a process of encapsulating or packing up software code and all its dependencies so that it can run uniformly and consistently on any infrastructure. 
+
+With this process developers can create and deploy their applications faster and more securely as the computing environment no longer plays a big role in error or bugs.
+
+- Benefits
+
+1. Portability
+2. Agility
+3. Speed
+4. Fault isolation
+5. Ease of management
+
 ## Cloud Scalability, and Reliability
+
+Cloud Scalability is the ability to quickly increase or decrease resources according to the needs. Scaling can happen horizontally (scaling out) or vertically (scaling up). Cloud computing makes it easy to scale applications and often allow you to do so automatically based on usage patterns.s
