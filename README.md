@@ -89,7 +89,7 @@ The above steps are repeated by starting a new test.
 
 ## Continuous Integration
 
-Continous Inetegration is a software development practice where each member of a team integrate(commit) their work frequently. Each integration is verified by an automated build to detect integration errors as quickly as possible. 
+Continous Integration is a software development practice where each member of a team integrate(commit) their work frequently. Each integration is verified by an automated build to detect integration errors as quickly as possible. 
 
 While working in a team, if all the developers wait for days or weeks before they commit their changes, it is hard to fit the code with each other, so CI helps to make sure that all the developers commit their changes to a shared version control branch to avoid such problems.
 
