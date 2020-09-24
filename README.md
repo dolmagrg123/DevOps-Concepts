@@ -131,9 +131,9 @@ Configuration Management is an automated method to maintan consistency in the pr
 
 It is common for configuration management tools to include automation too. Popular tools are:
 
-Red Hat Ansible
-Chef
-Puppet
+- Red Hat Ansible
+- Chef
+- Puppet
 
 ## Containerization
 
