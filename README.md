@@ -52,11 +52,11 @@ Test-Driven development is a process of developing and running automated test be
 
 Following steps define how to perform TDD test,
 
-1. Add a test.
-2. Run all tests and see if any new test fails.
-3. Write some code.
-4. Run tests and Refactor code.
-5. Repeat.
+- Add a test.
+- Run all tests and see if any new test fails.
+- Write some code.
+- Run tests and Refactor code.
+- Repeat.
 
 1. Add a test:
 Each new feature is started by writing a test that checks if the function fulfills the requirements needed. The developer can hence focus on the requirements before even writing the code itself.
@@ -126,6 +126,14 @@ Peer-reviewed research has shown continuous delivery makes releases less painful
 
 
 ## Configuration Management
+
+Configuration Management is an automated method to maintan consistency in the software. Configuration management is important because it enables the ability to scale infrastructure and software systems without having to correspondingly scale administrative staff to manage those systems. 
+
+It is common for configuration management tools to include automation too. Popular tools are:
+
+Red Hat Ansible
+Chef
+Puppet
 
 ## Containerization
 
