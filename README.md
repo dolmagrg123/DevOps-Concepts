@@ -58,13 +58,21 @@ Following steps define how to perform TDD test,
 4. Run tests and Refactor code.
 5. Repeat.
 
-1. Add a test.
+1. Add a test:
+Each new feature is started by writing a test that checks if the function fulfills the requirements needed. The developer can hence focus on the requirements before even writing the code itself.
 
 
-2. Run all tests and see if any new test fails.
-3. Write some code.
-4. Run tests and Refactor code.
-5. Repeat.
+2. Run all tests and see if any new test fails:
+The code should pass all the test to make sure it fulfills all the requirements. Each new test will fail because the required code has not been written yet for the new test.
+
+3. Write some code:
+Now, we write the code so that the new test passes.
+
+4. Run tests and Refactor code:
+Again, we run all the test to see if the code passes them all. As the code grows, there will be continous refactoring of the code.
+
+5. Repeat:
+The above steps are repeated by starting a new test. 
 
 
 - Benefits of TDD:
@@ -81,7 +89,41 @@ Following steps define how to perform TDD test,
 
 ## Continuous Integration
 
+Continous Inetegration is a software development practice where each member of a team integrate(commit) their work frequently. Each integration is verified by an automated build to detect integration errors as quickly as possible. 
+
+While working in a team, if all the developers wait for days or weeks before they commit their changes, it is hard to fit the code with each other, so CI helps to make sure that all the developers commit their changes to a shared version control branch to avoid such problems.
+
+- Benefits:
+
+1. Significantly reduced integration problems
+2. Rapid development of a cohesive software
+3. Ensures bugs are caught earlier in the development cycle, which makes them less expensive to fix. 
+
+
 ## Continuous Delivery
+
+Continuous delivery is a software development practice where code changes are automatically prepared for a release to production. These changes could be new features, configuration, changes, bug fixes and experiments. The goal is deploy changes/updates continously according to the demands. It aims at building, testing, and releasing software with greater speed and frequency.
+
+- Benefits:
+
+1. Faster time to market:
+
+It’s not uncommon for the integration and test/fix phase of the traditional phased software delivery lifecycle to consume weeks or even months. When teams work together to automate the build and deployment, environment provisioning, and regression testing processes, developers can incorporate integration and regression testing into their daily work and completely remove these phases.
+
+2. Higher quality:
+
+When developers have automated tools that discover regressions within minutes, teams are freed to focus their effort on user research and higher level testing activities such as exploratory testing, usability testing, and performance and security testing.
+
+3. Lower Costs:
+
+Any successful software product or service will evolve significantly over the course of its lifetime. By investing in build, test, deployment and environment automation, we substantially reduce the cost of making and delivering incremental changes to software by eliminating many of the fixed costs associated with the release process.
+
+4. Happier Teams: 
+
+Peer-reviewed research has shown continuous delivery makes releases less painful and reduces team burnout. Furthermore, when we release more frequently, software delivery teams can engage more actively with users, learn which ideas work and which don’t, and see first-hand the outcomes of the work they have done. 
+
+
+
 
 ## Configuration Management
 
