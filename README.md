@@ -151,4 +151,25 @@ With this process developers can create and deploy their applications faster and
 
 ## Cloud Scalability, and Reliability
 
-Cloud Scalability is the ability to quickly increase or decrease resources according to the needs. Scaling can happen horizontally (scaling out) or vertically (scaling up). Cloud computing makes it easy to scale applications and often allow you to do so automatically based on usage patterns.s
+Cloud Scalability is the ability to quickly increase or decrease resources according to the needs. Scaling can happen horizontally (scaling out) or vertically (scaling up). Cloud computing makes it easy to scale applications and often allow you to do so automatically based on usage patterns.
+
+- Benefits of cloud scalability:
+
+Scalability is the key concept for anyone in the DevOps world.
+
+- Performance:
+
+
+One core benefit of scalability in the cloud is that it facilitates performance. Scalable architecture has the ability to handle the bursts of traffic and heavy workloads that will come with business growth.
+
+- Cost-efficient:
+
+You can allow your business to grow without making any expensive changes in the current setup. This reduces the cost implications of storage growth making scalability in the cloud very cost effective.
+
+- Easy and Quick:
+
+Scaling up or scaling out in the cloud is simpler; you can commission additional VMs with a few clicks and after the payment is processed, the additional resources are available without any delay.
+
+- Capacity:
+
+Scalability ensures that with the continuous growth of your business the storage space in cloud grows as well. Scalable cloud computing systems accommodate your data growth requirements. With scalability, you don’t have to worry about additional capacity needs.
