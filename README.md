@@ -45,18 +45,27 @@ Finally, when the desired product is delivered, the developers work on continous
 
 ## Test Driven Development
 
-Test Driven Development(TDD) is a software development approach in which test cases are developed to specify and validate what the code will do. In this approach before writing the actual code, test cases are created for each function. 
+Test Driven Development(TDD) is a software development approach in which test cases are developed to specify and validate what the code will do. In this approach before writing the additional code, test cases are created for each function. 
 Test-Driven development is a process of developing and running automated test before actual development of the application. Hence, TDD sometimes also called as Test First Development.
 
 - How to perform TDD Test
 
-- Following steps define how to perform TDD test,
+Following steps define how to perform TDD test,
 
 1. Add a test.
 2. Run all tests and see if any new test fails.
 3. Write some code.
 4. Run tests and Refactor code.
 5. Repeat.
+
+1. Add a test.
+
+
+2. Run all tests and see if any new test fails.
+3. Write some code.
+4. Run tests and Refactor code.
+5. Repeat.
+
 
 - Benefits of TDD:
 
