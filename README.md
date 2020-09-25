@@ -12,7 +12,7 @@
 ## Software Delivery Cycle
 The Software Development Life Cycle is a process that ensures good software is built. Each phase in the life cycle has its own process and deliverables that feed into the next phase. It involves all tasks involved in planning, creating, testing and deplaoying a Software Product. 
 
-### Purpose:
+#### Purpose:
 
 SDLC process leads to the development of the software in a systematic and disciplined manner.
 SDLC helps to deliver a high quality product according to the needs and demands of the customer.
@@ -30,27 +30,27 @@ Given below are the various phases:
 
 There are typically 5 phases starting with the analysis and requirements gathering and ending with the implementation. 
  
- ### 1. Requirements Gathering/Analysis
+ #### 1. Requirements Gathering/Analysis
 
  This is the planning stage. The project manager and the client decide all the requirements of the project. This stage is where all the relevant information is collected to develop a product that satisfies the needs of the customer. Understanding the purpose of the product is important to find out the next steps of the product.
 
- ### 2. Design
+ #### 2. Design
 
  Once all the requirements are gathered in the previous steps, the next step will be to derive a software architecture that is used for implementing system development.
  
- ### 3. Implementation
+ #### 3. Implementation
 
  The design of the software is used to write code to implement into the software.
 
-### 4. Testing
+#### 4. Testing
 
 Once the coding is completed, we need to test the code in this stage. If any errors are found, the devlopers try to fix them. After continous testing and fixing, a product is finally derived that fulfills the needs and demands of the customer.
 
-### 5. Deployment
+#### 5. Deployment
 
 The tested product that is ready is now deployed in this stage.
 
-### 6. Maintenance
+#### 6. Maintenance
 
 Finally, when the desired product is delivered, the developers work on continous maintenance of the product if any issues come.
 
@@ -66,7 +66,7 @@ Finally, when the desired product is delivered, the developers work on continous
 Test Driven Development(TDD) is a software development approach in which test cases are developed to specify and validate what the code will do. In this approach before writing the additional code, test cases are created for each function. 
 Test-Driven development is a process of developing and running automated test before actual development of the application. Hence, TDD sometimes also called as Test First Development.
 
-### How to perform TDD Test
+#### How to perform TDD Test
 
 Following steps define how to perform TDD test,
 
@@ -76,20 +76,20 @@ Following steps define how to perform TDD test,
 - Run tests and Refactor code.
 - Repeat.
 
-### 1. Add a test:
+#### 1. Add a test:
 Each new feature is started by writing a test that checks if the function fulfills the requirements needed. The developer can hence focus on the requirements before even writing the code itself.
 
 
-### 2. Run all tests and see if any new test fails:
+#### 2. Run all tests and see if any new test fails:
 The code should pass all the test to make sure it fulfills all the requirements. Each new test will fail because the required code has not been written yet for the new test.
 
-### 3. Write some code:
+#### 3. Write some code:
 Now, we write the code so that the new test passes.
 
-### 4. Run tests and Refactor code:
+#### 4. Run tests and Refactor code:
 Again, we run all the test to see if the code passes them all. As the code grows, there will be continous refactoring of the code.
 
-### 5. Repeat:
+#### 5. Repeat:
 The above steps are repeated by starting a new test. 
 
 
@@ -127,19 +127,19 @@ Continuous delivery is a software development practice where code changes are au
 
 ### Benefits:
 
-### 1. Faster time to market:
+#### 1. Faster time to market:
 
 It’s not uncommon for the integration and test/fix phase of the traditional phased software delivery lifecycle to consume weeks or even months. When teams work together to automate the build and deployment, environment provisioning, and regression testing processes, developers can incorporate integration and regression testing into their daily work and completely remove these phases.
 
-### 2. Higher quality:
+#### 2. Higher quality:
 
 When developers have automated tools that discover regressions within minutes, teams are freed to focus their effort on user research and higher level testing activities such as exploratory testing, usability testing, and performance and security testing.
 
-### 3. Lower Costs:
+#### 3. Lower Costs:
 
 Any successful software product or service will evolve significantly over the course of its lifetime. By investing in build, test, deployment and environment automation, we substantially reduce the cost of making and delivering incremental changes to software by eliminating many of the fixed costs associated with the release process.
 
-### 4. Happier Teams: 
+#### 4. Happier Teams: 
 
 Peer-reviewed research has shown continuous delivery makes releases less painful and reduces team burnout. Furthermore, when we release more frequently, software delivery teams can engage more actively with users, learn which ideas work and which don’t, and see first-hand the outcomes of the work they have done. 
 
@@ -182,20 +182,20 @@ Cloud Scalability is the ability to quickly increase or decrease resources accor
 
 Scalability is the key concept for anyone in the DevOps world.
 
-### Performance:
+#### Performance:
 
 
 One core benefit of scalability in the cloud is that it facilitates performance. Scalable architecture has the ability to handle the bursts of traffic and heavy workloads that will come with business growth.
 
-### - Cost-efficient:
+#### - Cost-efficient:
 
 You can allow your business to grow without making any expensive changes in the current setup. This reduces the cost implications of storage growth making scalability in the cloud very cost effective.
 
-### - Easy and Quick:
+#### - Easy and Quick:
 
 Scaling up or scaling out in the cloud is simpler; you can commission additional VMs with a few clicks and after the payment is processed, the additional resources are available without any delay.
 
-### - Capacity:
+#### - Capacity:
 
 Scalability ensures that with the continuous growth of your business the storage space in cloud grows as well. Scalable cloud computing systems accommodate your data growth requirements. With scalability, you don’t have to worry about additional capacity needs.
 
