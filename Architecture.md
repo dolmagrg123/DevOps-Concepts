@@ -20,9 +20,9 @@ There are different software architecural patterns and choosing the right patter
 
 ## Client or Server
 
-This pattern consists of two parties; 
-#### Server
-#### Multiple clients. 
+This pattern consists of two parties:
+#### * Server
+#### * Multiple clients. 
 
 The server component will provide services to multiple client components. Clients request services from the server and the server provides relevant services to those clients. Furthermore, the server continues to listen to client requests.
 
