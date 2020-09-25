@@ -59,7 +59,7 @@ Finally, when the desired product is delivered, the developers work on continous
 - Waterfall Model
 - Agile Model
 
-* [Top](#Table-of-Contents)
+ [Top](#Table-of-Contents)
 
 ## Test Driven Development
 
