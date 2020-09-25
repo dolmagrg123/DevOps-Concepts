@@ -21,12 +21,12 @@ SDLC helps to deliver a high quality product according to the needs and demands 
 
 Given below are the various phases:
 
-1. Requirement gathering and analysis
-2. Design
-3. Implementation or coding
-4. Testing
-5. Deployment
-6. Maintenance
+##### 1. Requirement gathering and analysis
+##### 2. Design
+##### 3. Implementation or coding
+##### 4. Testing
+##### 5. Deployment
+##### 6. Maintenance
 
 There are typically 5 phases starting with the analysis and requirements gathering and ending with the implementation. 
  
