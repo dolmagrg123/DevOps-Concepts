@@ -1,7 +1,7 @@
 # Discussing About the Software Architecture
 
 
-## Table of contents
+## Table of Contents
 * [Software Architecture Patterns](#Software-Architecture-or-Software-Architecture-Patterns)
 * [Client/Server](#Client-or-Server)
 * [Peer-to-Peer](#Peer-to-Peer)
@@ -21,15 +21,18 @@ There are different software architecural patterns and choosing the right patter
 ## Client or Server
 
 This pattern consists of two parties; 
-a server and multiple clients. 
+#### Server
+#### Multiple clients. 
 
 The server component will provide services to multiple client components. Clients request services from the server and the server provides relevant services to those clients. Furthermore, the server continues to listen to client requests.
-clients and servers communicate over a computer network on separate hardware, but both client and server may reside in the same system.
+
+Clients and servers communicate over a computer network on separate hardware, but both client and server may reside in the same system.
 
 A client does not share any of its resources, but it requests content or service from a server. Clients, therefore, initiate communication sessions with servers, which await incoming requests. Examples of computer applications that use the client-server model are email, network printing, and the World Wide Web.
 
-Usage
-Online applications such as email, document sharing and banking.
+### Usage
+
+* Online applications such as email, document sharing and banking.
 
 [Back To Top](#Table-of-Contents)
 
@@ -38,10 +41,11 @@ Online applications such as email, document sharing and banking.
 
 In this pattern, individual components are known as peers. Peers may function both as a client, requesting services from other peers, and as a server, providing services to other peers. A peer may act as a client or as a server or as both, and it can change its role dynamically with time.
 
-Usage
-File-sharing networks such as Gnutella and G2)
-Multimedia protocols such as P2PTV and PDTP.
-Cryptocurrency-based products such as Bitcoin and Blockchain
+### Usage
+
+* File-sharing networks such as Gnutella and G2)
+* Multimedia protocols such as P2PTV and PDTP.
+* Cryptocurrency-based products such as Bitcoin and Blockchain
 
 [Back To Top](#Table-of-Contents)
 
@@ -63,7 +67,7 @@ Microservices are component parts of an application that are designed to run ind
 
 This architecture allows for each service to scale or update without disrupting other services in the application. A microservices framework creates a massively scalable and distributed system, which avoids the bottlenecks of a central database and improves business capabilities, such as enabling continuous delivery/deployment applications and modernizing the technology stack.
 
-Benefits:
+### Benefits:
 
 * Agility
 * Flexible Scaling
