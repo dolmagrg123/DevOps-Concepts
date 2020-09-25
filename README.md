@@ -1,3 +1,5 @@
+# Important DevOps Concepts
+
 ## Software Delivery Cycle
 The Software Development Life Cycle is a process that ensures good software is built. Each phase in the life cycle has its own process and deliverables that feed into the next phase. It involves all tasks involved in planning, creating, testing and deplaoying a Software Product. 
 
