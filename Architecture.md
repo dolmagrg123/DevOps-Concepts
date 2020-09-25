@@ -2,7 +2,7 @@
 
 
 ## Table of contents
-* [Software Architecture Patterns](#Software-Architecture-Patterns)
+* [Software Architecture Patterns](#Software-Architecute-/-Software-Architecture-Patterns)
 * [Client/Server](#Client/Server)
 * [Peer-to-Peer](#Peer-to-Peer)
 * [Monolithic](#Monolithic)
