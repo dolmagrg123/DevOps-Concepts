@@ -52,8 +52,8 @@ Benefits:
 
 
 ### More Info
-[AWS-Microservice] (https://aws.amazon.com/microservices/)
-[Microservice] (https://www.citrix.com/glossary/what-are-microservices.html)
+[AWS-Microservice](https://aws.amazon.com/microservices/)
+[Microservice](https://www.citrix.com/glossary/what-are-microservices.html)
 
 
 ## Monolithic vs. Microservices Architecture
@@ -63,7 +63,8 @@ With monolithic architectures, all processes are tightly coupled and run as a si
 With a microservices architecture, an application is built as independent components that run each application process as a service. These services communicate via a well-defined interface using lightweight APIs. Services are built for business capabilities and each service performs a single function. Because they are independently run, each service can be updated, deployed, and scaled to meet demand for specific functions of an application.
 
 ### More Info
-[AWS-Monolithic-VS-Microservices] (https://aws.amazon.com/microservices/))
+
+[AWS-Monolithic-VS-Microservices](https://aws.amazon.com/microservices/))
 
 ## REST
 
@@ -71,6 +72,6 @@ Representational State Transfer (REST) is a style of architecture based on a set
 
 REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. REST-compliant systems, often called RESTful systems, are characterized by how they are stateless and separate the concerns of client and server. We will go into what these terms mean and why they are beneficial characteristics for services on the Web.
 
-### More INfo
+### More Info
 
-[REST] (https://www.codecademy.com/articles/what-is-rest)
+ [REST](https://www.codecademy.com/articles/what-is-rest)
