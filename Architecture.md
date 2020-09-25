@@ -2,14 +2,14 @@
 
 
 ## Table of contents
-* [Software Architecture Patterns](#Software-Architecture-/-Software-Architecture-Patterns)
-* [Client/Server](#Client/Server)
+* [Software Architecture Patterns](#Software-Architecture-or-Software-Architecture-Patterns)
+* [Client/Server](#Client-or-Server)
 * [Peer-to-Peer](#Peer-to-Peer)
 * [Monolithic](#Monolithic)
 * [Microservices](#Microservices)
 * [REST](#REST)
 
-## Software Architecture / Software Architecture Patterns
+## Software Architecture or Software Architecture Patterns
 
 An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. Architectural patterns are similar to software design pattern but have a broader scope.
 
@@ -18,7 +18,7 @@ There are different software architecural patterns and choosing the right patter
 [Back To Top](#Table-of-Contents)
 
 
-## Client/Server
+## Client orServer
 
 This pattern consists of two parties; 
 a server and multiple clients. 
