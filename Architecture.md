@@ -18,7 +18,7 @@ There are different software architecural patterns and choosing the right patter
 [Back To Top](#Table-of-Contents)
 
 
-## Client orServer
+## Client or Server
 
 This pattern consists of two parties; 
 a server and multiple clients. 
