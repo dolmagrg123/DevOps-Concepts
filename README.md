@@ -59,7 +59,7 @@ Finally, when the desired product is delivered, the developers work on continous
 - Waterfall Model
 - Agile Model
 
- [Top](#Table-of-Contents)
+ [Back To Top](#Table-of-Contents)
 
 ## Test Driven Development
 
@@ -105,6 +105,8 @@ The above steps are repeated by starting a new test.
 
 5. Shorter development cycles
 
+[Back To Top](#Table-of-Contents)
+
 ## Continuous Integration
 
 Continous Integration is a software development practice where each member of a team integrate(commit) their work frequently. Each integration is verified by an automated build to detect integration errors as quickly as possible. 
@@ -117,6 +119,7 @@ While working in a team, if all the developers wait for days or weeks before the
 2. Rapid development of a cohesive software
 3. Ensures bugs are caught earlier in the development cycle, which makes them less expensive to fix. 
 
+[Back To Top](#Table-of-Contents)
 
 ## Continuous Delivery
 
@@ -140,7 +143,7 @@ Any successful software product or service will evolve significantly over the co
 
 Peer-reviewed research has shown continuous delivery makes releases less painful and reduces team burnout. Furthermore, when we release more frequently, software delivery teams can engage more actively with users, learn which ideas work and which don’t, and see first-hand the outcomes of the work they have done. 
 
-
+[Back To Top](#Table-of-Contents)
 
 
 ## Configuration Management
@@ -152,6 +155,8 @@ It is common for configuration management tools to include automation too. Popul
 - Red Hat Ansible
 - Chef
 - Puppet
+
+[Back To Top](#Table-of-Contents)
 
 ## Containerization
 
@@ -166,6 +171,8 @@ With this process developers can create and deploy their applications faster and
 3. Speed
 4. Fault isolation
 5. Ease of management
+
+[Back To Top](#Table-of-Contents)
 
 ## Cloud Scalability and Reliability
 
@@ -191,3 +198,6 @@ Scaling up or scaling out in the cloud is simpler; you can commission additional
 - Capacity:
 
 Scalability ensures that with the continuous growth of your business the storage space in cloud grows as well. Scalable cloud computing systems accommodate your data growth requirements. With scalability, you don’t have to worry about additional capacity needs.
+
+
+[Back To Top](#Table-of-Contents)
