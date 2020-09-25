@@ -1,10 +1,21 @@
 # Discussing About the Software Architecture
 
+
+## Table of contents
+* [Software Architecture Patterns](#Software-Architecture-Patterns)
+* [Client/Server](#Client/Server)
+* [Peer-to-Peer](#Peer-to-Peer)
+* [Monolithic](#Monolithic)
+* [Microservices](#Microservices)
+* [REST](#REST)
+
 ## Software Architecture / Software Architecture Patterns
 
 An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. Architectural patterns are similar to software design pattern but have a broader scope.
 
 There are different software architecural patterns and choosing the right pattern is important when it comes to software development.
+
+[Back To Top](#Table-of-Contents)
 
 
 ## Client/Server
@@ -20,6 +31,9 @@ A client does not share any of its resources, but it requests content or service
 Usage
 Online applications such as email, document sharing and banking.
 
+[Back To Top](#Table-of-Contents)
+
+
 ## Peer-to-Peer 
 
 In this pattern, individual components are known as peers. Peers may function both as a client, requesting services from other peers, and as a server, providing services to other peers. A peer may act as a client or as a server or as both, and it can change its role dynamically with time.
@@ -29,6 +43,9 @@ File-sharing networks such as Gnutella and G2)
 Multimedia protocols such as P2PTV and PDTP.
 Cryptocurrency-based products such as Bitcoin and Blockchain
 
+[Back To Top](#Table-of-Contents)
+
+
 ## Monolithic
 
 A monolithic application has most of its functionality within a single process/container. Monolithic application describes a single-tiered software application in which the user interface and data access code are combined into a single program from a single platform.
@@ -36,6 +53,9 @@ A monolithic application has most of its functionality within a single process/c
 Monolithic software is designed to be self-contained; components of the program are interconnected and interdependent rather than loosely coupled as is the case with modular software programs. In a tightly-coupled architecture, each component and its associated components must be present in order for code to be executed or compiled.
 
 The problem with monolithic software is that if there is a problem the entire software has to be rewritten.
+
+[Back To Top](#Table-of-Contents)
+
 
 ## Microservices
 
@@ -53,6 +73,7 @@ Benefits:
 
 ### More Info
 [AWS-Microservice](https://aws.amazon.com/microservices/)
+
 [Microservice](https://www.citrix.com/glossary/what-are-microservices.html)
 
 
@@ -64,7 +85,10 @@ With a microservices architecture, an application is built as independent compon
 
 ### More Info
 
-[AWS-Monolithic-VS-Microservices](https://aws.amazon.com/microservices/))
+[AWS-Monolithic-VS-Microservices](https://aws.amazon.com/microservices/)
+
+[Back To Top](#Table-of-Contents)
+
 
 ## REST
 
@@ -75,3 +99,5 @@ REST, or REpresentational State Transfer, is an architectural style for providin
 ### More Info
 
  [REST](https://www.codecademy.com/articles/what-is-rest)
+
+ [Back To Top](#Table-of-Contents)
