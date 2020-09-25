@@ -1,5 +1,14 @@
 # Important DevOps Concepts
 
+## Table of contents
+* [Software Delivery Cycle](#Software-Delivery-Cycle)
+* [Test Driven Development](#Test-Driven-Development)
+* [Continuous Integration](#Continuous-Integration)
+* [Continuous Delivery](#Continuous-Delivery)
+* [Configuration Management](#Configuration-Management)
+* [Containerization](#Containerization)
+* [Cloud Scalability and Reliability](#Cloud-Scalability-and-Reliability)
+
 ## Software Delivery Cycle
 The Software Development Life Cycle is a process that ensures good software is built. Each phase in the life cycle has its own process and deliverables that feed into the next phase. It involves all tasks involved in planning, creating, testing and deplaoying a Software Product. 
 
@@ -156,7 +165,7 @@ With this process developers can create and deploy their applications faster and
 4. Fault isolation
 5. Ease of management
 
-## Cloud Scalability, and Reliability
+## Cloud Scalability and Reliability
 
 Cloud Scalability is the ability to quickly increase or decrease resources according to the needs. Scaling can happen horizontally (scaling out) or vertically (scaling up). Cloud computing makes it easy to scale applications and often allow you to do so automatically based on usage patterns.
 
