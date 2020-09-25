@@ -82,7 +82,7 @@ Again, we run all the test to see if the code passes them all. As the code grows
 The above steps are repeated by starting a new test. 
 
 
-- Benefits of TDD:
+### Benefits of TDD:
 
 1. Much less debug time
 
@@ -100,7 +100,7 @@ Continous Integration is a software development practice where each member of a 
 
 While working in a team, if all the developers wait for days or weeks before they commit their changes, it is hard to fit the code with each other, so CI helps to make sure that all the developers commit their changes to a shared version control branch to avoid such problems.
 
-- Benefits:
+### Benefits:
 
 1. Significantly reduced integration problems
 2. Rapid development of a cohesive software
@@ -111,7 +111,7 @@ While working in a team, if all the developers wait for days or weeks before the
 
 Continuous delivery is a software development practice where code changes are automatically prepared for a release to production. These changes could be new features, configuration, changes, bug fixes and experiments. The goal is deploy changes/updates continously according to the demands. It aims at building, testing, and releasing software with greater speed and frequency.
 
-- Benefits:
+### Benefits:
 
 1. Faster time to market:
 
@@ -148,7 +148,7 @@ Containerization is a process of encapsulating or packing up software code and a
 
 With this process developers can create and deploy their applications faster and more securely as the computing environment no longer plays a big role in error or bugs.
 
-- Benefits
+### Benefits
 
 1. Portability
 2. Agility
@@ -160,11 +160,11 @@ With this process developers can create and deploy their applications faster and
 
 Cloud Scalability is the ability to quickly increase or decrease resources according to the needs. Scaling can happen horizontally (scaling out) or vertically (scaling up). Cloud computing makes it easy to scale applications and often allow you to do so automatically based on usage patterns.
 
-- Benefits of cloud scalability:
+### Benefits of cloud scalability:
 
 Scalability is the key concept for anyone in the DevOps world.
 
-- Performance:
+### Performance:
 
 
 One core benefit of scalability in the cloud is that it facilitates performance. Scalable architecture has the ability to handle the bursts of traffic and heavy workloads that will come with business growth.
