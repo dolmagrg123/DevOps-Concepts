@@ -42,11 +42,23 @@ AWS CloudFormation gives you an easy way to model a collection of related AWS an
 
 
 ### Resource:
-[AWS] (https://aws.amazon.com/cloudformation/)
+[AWS](https://aws.amazon.com/cloudformation/)
 
 
 
 
+
+
+
+# Ansible
+
+# Terraform
+
+
+
+# Docker
+
+# Jenkins
 
 
 # Cloud Transformation
@@ -67,14 +79,4 @@ Cloud transformation involves:
 
 [Cloud Transformation](https://www.atscale.com/blog/cloud-transformation-the-next-data-frontier-for-business-intelligence/)
 
-
-# Ansible
-
-# Terraform
-
-
-
-# Docker
-
-# Jenkins
 
