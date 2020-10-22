@@ -32,7 +32,7 @@ Cloud transformation involves:
 ### Resource:
 
 
-[Cloud Management](https://www.atscale.com/blog/cloud-transformation-the-next-data-frontier-for-business-intelligence/)
+[Cloud Tranformation](https://www.atscale.com/blog/cloud-transformation-the-next-data-frontier-for-business-intelligence/)
 
 
 # Ansible
