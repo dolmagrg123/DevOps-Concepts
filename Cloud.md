@@ -16,7 +16,40 @@ A good cloud management platform should allow the user to see how and when each 
 ### Resource:
 [Cloud Management](https://www.vmware.com/topics/glossary/content/cloud-management)
 
-# Cloud Transormation
+
+# Cloud Formation
+
+## What is cloud formation?
+
+AWS CloudFormation gives you an easy way to model a collection of related AWS and third-party resources, provision them quickly and consistently, and manage them throughout their lifecycles, by treating infrastructure as code. A CloudFormation template describes your desired resources and their dependencies so you can launch and configure them together as a stack. You can use a template to create, update, and delete an entire stack as a single unit, as often as you need to, instead of managing resources individually. You can manage and provision stacks across multiple AWS accounts and AWS Regions.
+
+## Challenges without Cloud Formation
+
+* Manage infrastructure is challenging
+* Challenging version control and keeping track of changes
+* Hard to replicate stacks entire production stack for multiple development and testing purpose
+
+
+
+#### Create and manage your infrastructure and application in a controlled and predicatable way
+#### Provision and manage resources based on templates you create (json file).
+#### Upload template to cloud formation
+
+* Update anytime by uploading modified template
+* Version control you infrastructure
+* Replicating infrastructure is very simple
+* from single ec2 resource or multi resources
+
+
+### Resource:
+[AWS] (https://aws.amazon.com/cloudformation/)
+
+
+
+
+
+
+# Cloud Transformation
 
 ## WHAT IS CLOUD TRANSFORMATION
 
@@ -32,7 +65,7 @@ Cloud transformation involves:
 ### Resource:
 
 
-[Cloud Tranformation](https://www.atscale.com/blog/cloud-transformation-the-next-data-frontier-for-business-intelligence/)
+[Cloud Transformation](https://www.atscale.com/blog/cloud-transformation-the-next-data-frontier-for-business-intelligence/)
 
 
 # Ansible
