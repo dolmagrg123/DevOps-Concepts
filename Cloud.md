@@ -1,3 +1,31 @@
+# Configuration Management:
+
+Configuration management (CM) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
+
+Configuration management applies to a variety of systems, but most often, you’ll be concerned with these:
+
+* Servers
+* Databases and other storage systems
+* Operating systems
+* Networking 
+* Applications
+* Software
+
+### Why is configuration management important?
+
+* To reduce cybersecurity risk and improve operations
+* Version control is critical for al IT infrastructure.
+* Cost reduction by having detailed knowledge of all the elements of your configuration, avoiding wasteful duplication of your technology assets
+
+### Resource
+
+[Configuration Management](https://www.upguard.com/blog/5-configuration-management-boss)
+
+
+# Ansible
+
+
+
 # Cloud Management:
 
 Cloud management is the process of monitoring and maximizing efficiency in the use of one or more private or public clouds. Organizations typically use a cloud management platform to manage cloud usage. Cloud management allows IT managers to move workloads through different clouds and manage the cost of cloud resources. 
@@ -65,7 +93,7 @@ Terraform is an open source “Infrastructure as Code” tool.
 [IBM] (https://www.ibm.com/cloud/learn/terraform)
 
 
-# Ansible
+
 
 # Docker
 
