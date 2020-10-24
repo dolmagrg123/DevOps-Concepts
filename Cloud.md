@@ -37,9 +37,13 @@ Configuration management applies to a variety of systems, but most often, you’
 
 [Configuration Management](https://www.upguard.com/blog/5-configuration-management-boss)
 
+[Back To Top](#Table-of-Contents)
+
 
 # Ansible
 
+
+[Back To Top](#Table-of-Contents)
 
 
 # Cloud Management:
@@ -59,6 +63,8 @@ A good cloud management platform should allow the user to see how and when each 
 
 ### Resource:
 [Cloud Management](https://www.vmware.com/topics/glossary/content/cloud-management)
+
+[Back To Top](#Table-of-Contents)
 
 
 # Cloud Formation
@@ -88,6 +94,8 @@ AWS CloudFormation gives you an easy way to model a collection of related AWS an
 ### Resource:
 [AWS](https://aws.amazon.com/cloudformation/)
 
+[Back To Top](#Table-of-Contents)
+
 
 # Infrastructure as Code (IaC)
 Infrastructure as Code (IaC) allows developers to codify infrastructure in a way that makes provisioning automated, faster, and repeatable. It’s a key component of Agile and DevOps practices such as version control, continuous integration, and continuous deployment.
@@ -99,6 +107,9 @@ Infrastructure as Code (IaC) allows developers to codify infrastructure in a way
 * Prevent configuration drift: Configuration drift occurs when the configuration that provisioned your environment no longer matches the actual environment. (See ‘Immutable infrastructure’ below.)
 * Support experimentation, testing, and optimization: Because Infrastructure as Code makes provisioning new infrastructure so much faster and easier, you can make and test experimental changes without investing lots of time and resources; and if you like the results, you can quickly scale up the new infrastructure for production.
 
+[Back To Top](#Table-of-Contents)
+
+
 
 # Terraform
 
@@ -108,12 +119,21 @@ Terraform is an open source “Infrastructure as Code” tool.
 
 [IBM] (https://www.ibm.com/cloud/learn/terraform)
 
+[Back To Top](#Table-of-Contents)
 
 
 
 # Docker
 
+
+[Back To Top](#Table-of-Contents)
+
+
 # Jenkins
+
+
+
+[Back To Top](#Table-of-Contents)
 
 
 # Cloud Transformation
@@ -134,4 +154,4 @@ Cloud transformation involves:
 
 [Cloud Transformation](https://www.atscale.com/blog/cloud-transformation-the-next-data-frontier-for-business-intelligence/)
 
-
+[Back To Top](#Table-of-Contents)
