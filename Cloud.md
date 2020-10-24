@@ -5,10 +5,12 @@
 * [Configuration Management](#Configuration-Management)
 * [Ansible](#Ansible)
 * [Cloud Management](#Cloud-Management)
-* [Continuous Delivery](#Continuous-Delivery)
-* [Configuration Management](#Configuration-Management)
-* [Containerization](#Containerization)
-* [Cloud Scalability and Reliability](#Cloud-Scalability-and-Reliability)
+* [Cloud Formation](#Cloud-Formation)
+* [Infrastructure as Code (IaC)](#Infrastructure-as-Code-(IaC))
+* [Terraform](#Terraform)
+* [Docker](#Docker)
+* [Jenkins](#Jenkins)
+* [Cloud Transformation](Cloud-Transformation)
 
 
 
@@ -87,7 +89,7 @@ AWS CloudFormation gives you an easy way to model a collection of related AWS an
 [AWS](https://aws.amazon.com/cloudformation/)
 
 
-# Why Infrastructure as Code (IaC)?
+# Infrastructure as Code (IaC)
 Infrastructure as Code (IaC) allows developers to codify infrastructure in a way that makes provisioning automated, faster, and repeatable. It’s a key component of Agile and DevOps practices such as version control, continuous integration, and continuous deployment.
 
 ### Infrastructure as code can help with the following:
