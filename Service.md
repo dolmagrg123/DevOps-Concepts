@@ -27,3 +27,7 @@ There are many use cases for PaaS, including the following popular application-b
 * API development and management: You can use PaaS to develop, run, manage, and secure application programming interfaces (APIs) and microservices.
 * Internet of Things (IoT): PaaS can support the broad range of application environments, programming languages, and tools used for IoT deployments.
 * Business analytics/intelligence: PaaS tools allow you to analyze your data to find business insights that enable more informed business decisions and predictions.
+
+#### Reference:
+
+[IBM](https://www.ibm.com/cloud/learn/paas)
