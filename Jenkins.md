@@ -1,3 +1,4 @@
+# Jenkins
 
 Jenkins is an open-source automation tool written in Java with plugin built for DevOps purposes. It can trigger a built for any change in the repository. It allows CI/Ci in any platform.
 
@@ -12,19 +13,11 @@ Plugin allow the various DevOps tools to work in Jenkins.
 ## Jenkins Architecture
 
 
-Jenkins uses * Master and * Slave architecture. The master and slave communicate through TCP/IP in this case.
+Jenkins uses **Master** and **Slave** architecture. The master and slave communicate through TCP/IP in this case.
 
 Jenkins Master: pull the SCM repository, schedule build jobs, dispatch builds to the slaves for the actual execution , monitor the slaves, record and present the built results.
 
 Jenkins Slave: It is a java executable that runs on a remote machine. Slave Jenkins instances accept requests from the Jenkins master instance and execute the job and report back the status of the master. 
-
-
-
-
-
-
-
-
 
 
 ## CI/CD
