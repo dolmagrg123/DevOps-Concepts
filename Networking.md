@@ -35,5 +35,20 @@ This type of IP address lets you do things like connecting your home computer to
 Each device will have its own unique IP address which it can be used to communicate with a home router in your private network. 
 
 
+### DNS System
+
+The DNS system operates kind of like a phonebook. It essentially maps out domain names and their associated IP addresses. 
+
+
+
+# Reference
+
+[What is an IP Address?](https://www.hostgator.com/blog/what-is-ip-address/)
+
+
+
+
+
+
 
 
