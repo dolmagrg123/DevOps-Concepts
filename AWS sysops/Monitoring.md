@@ -69,6 +69,25 @@ Dashboards are multi-region and can display any widget to any region. To add the
 
 You can create Billing Alarms to automatically alert you for when you go above a pre-defined cost that you set.
 
+#### AWS Organizations
+
+* Centrally Manage Poilicies Across Multiple AWS Accounts
+* Control Access to AWS services
+* Automate AWS Account Creation And Management
+* Consolidate Billing Across Multiple AWS Accounts
+
+#### AWS Resource Groups
+
+* TAG Everything
+* Two Types of Resource Groups
+* Classical(Across the World)
+* Systems Manager Resource Groups(Within a region)
+
+
+
+
+
+
 
 
 
