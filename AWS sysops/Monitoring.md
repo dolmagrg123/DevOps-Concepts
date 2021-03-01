@@ -48,6 +48,28 @@ CloudTrail monitors API calls in the AWS platform.
 3. Request Tracing
 4. CloudTrail logs
 
+#### Elasticache consists of two engines
+1. Memcached
+2. Redis
+
+(Use:Example: Finding the top ten producs used)
+
+Monitoring Elasticache
+
+* CPU Utilization
+* Swap Usage
+* Evictions
+* Concurrent Connections
+
+#### CloudWatch Dashboard
+
+Dashboards are multi-region and can display any widget to any region. To add the widget,change to the region that you need and then add the widget to the dashboard. Always save dashboards.
+
+#### Billing Alarms
+
+You can create Billing Alarms to automatically alert you for when you go above a pre-defined cost that you set.
+
+
 
 
 
