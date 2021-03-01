@@ -83,6 +83,38 @@ You can create Billing Alarms to automatically alert you for when you go above a
 * Classical(Across the World)
 * Systems Manager Resource Groups(Within a region)
 
+#### AWS Config Rules
+
+* **Complaince checks:**
+
+* Trigger
+  * Periodic
+  * Configuration Changes
+* Manged Rules
+  * About 40 (at time of recording)
+  * Basic, but fundamental
+
+* **Permission needed for config**
+
+* AWS Config requires an IAM Role with
+  * Read only permission to the recorded resources
+  * Write access to S3 logging bucket
+  * Publish access to SNS
+
+* **Restrict Access**
+
+* Users need to be authenticated with AWS and have the appropriate permission set via IAM policies to gain access.
+* Only Admins needing to set up and manage Config requires full access
+* Provide read only permission for Config day-to-day use.
+
+#### Monitoring Config:
+
+* Use CloudTrail with Config to provide deeper insight into resources.
+* Use Cloud Trail to monitor access to Config, such as someone stopping the Config Recorder.
+
+
+
+
 
 
 
