@@ -112,6 +112,18 @@ You can create Billing Alarms to automatically alert you for when you go above a
 * Use CloudTrail with Config to provide deeper insight into resources.
 * Use Cloud Trail to monitor access to Config, such as someone stopping the Config Recorder.
 
+### CloudWatch Vs CloudTrail Vs Config
+
+* CloudWatch monitors performance
+* CloudTrail monitors API calls in the AWS platform
+* AWS Config records the state of your AWS environment and can notify you of changes
+
+### Health Dashboards
+* Service Health Dashboard: Entire AWS environment on a continental basis
+* Personal Health Dashboard: Provides alerts and remediation guidance when AWS is experiencing events that may impact you.
+
+
+
 
 
 
